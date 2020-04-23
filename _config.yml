@@ -31,7 +31,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ocp311.cloudpak8s.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 github:
-  url: "https://github.com/ibm-cloud-architecture/ocp311cloudpak8s"
+  url: "https://ocp311.cloudpak8s.io/"
 
 # Content settings
 collections:
